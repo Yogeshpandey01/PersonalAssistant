@@ -23,3 +23,4 @@ pip isntall smtplib<br>
 pip install request requests<br>
 pip install bs4<br>
 
+Tussi great ho paji 😜😜
